@@ -1,0 +1,60 @@
+{
+    "bam2fq": {
+        "table_summary": "upload/bam2fq/data_stat.xls",
+        "image_pic": "upload/bam2fq/*.png",
+        "download_summary": "upload/bam2fq/data_stat.xls"
+    },
+    "phase_triocanu": {
+        "table_stat_file": "upload/triocanu/stat.xls",
+        "download_stat_file": "upload/triocanu/stat.xls",
+        "download_Patfa_file": "upload/triocanu/haplotype-Paternal.fasta.gz",
+        "download_Matfa_file": "upload/triocanu/haplotype-Maternal.fasta.gz",
+        "download_unhapfa_file": "upload/triocanu/haplotype-unknown.fasta.gz",
+        "image_HapAssem_analysispipe_parents":"upload/_icon/HapAssem_analysispipe_parents.png"
+    },
+    "merqury_parents": {
+        "image_QV_formula": "upload/_icon/QV_formula.jpg",
+        "table_QV_stat_file": "upload/merqury/*.qv.stats.xls",
+        "download_QV_stat_file": "upload/merqury/*.qv.stats.xls",
+        "image_spectra_asm_file": "upload/merqury/*.spectra-asm.ln.png",
+        "download_spectra_asm_file": "upload/merqury/*.spectra-asm.*.png",
+        "download_spectra_cn_file": "upload/merqury/*.spectra-cn.*.png",
+        "table_completeness_stat_file": "upload/merqury/*.completeness.stats.xls",
+        "download_completeness_stat_file": "upload/merqury/*.completeness.stats.xls",
+        "table_block_stat_file": "upload/merqury/*.phased_block.stats.xls",
+        "download_block_stat_file": "upload/merqury/*.phased_block.stats.xls",
+        "image_hapmers_blob_file": "upload/merqury/*.hapmers.blob.png",
+        "download_hapmers_blob_file": "upload/merqury/*.hapmers.blob.png",
+        "image_block_N_file": "upload/merqury/*.block.N.png",
+        "download_block_N_file": "upload/merqury/*.block.N.png",
+        "image_continuity_N_file": "upload/merqury/*.continuity.N.png",
+        "download_continuity_N_file": "upload/merqury/*.continuity.N.png"
+    },
+    "BUSCO": {
+        "table_busco_summary": "upload/BUSCO/*.BUSCO.xls",
+        "download_busco_summary":"upload/BUSCO/*.BUSCO.xls",
+        "busco_lib":"test_DB"
+    },
+    "NGS_evaluate": {
+        "image_GC_png": "upload/NGS_evaluate/*.gc.png",
+        "image_GC_depth_png": "upload/NGS_evaluate/*.GC_depth.png",
+        "image_depth_png": "upload/NGS_evaluate/*.depth.png",
+        "image_cumudepth_png": "upload/NGS_evaluate/*.site_depth.png",
+        "table_GC_stat": "upload/NGS_evaluate/*.GC_stat.xls",
+        "table_map_stat": "upload/NGS_evaluate/*.map.stat.xls"
+    },
+    "assemble_hifiasm": {
+        "table_n50_file": "upload/hifiasm/*.n50.xls",
+        "download_n50_file": "upload/hifiasm/*.n50.xls"
+    },
+    "info":{
+        "image_PB_diagrammatic_sketch":"upload/_icon/1.PB_diagrammatic_sketch.png",
+        "image_PB_lib_construct":"upload/_icon/2.PB_lib_construct.png",
+        "image_CCS_processing":"upload/_icon/3.CCS_processing.png",
+        "image_PB_Sequel_II":"upload/_icon/4.PB_Sequel_II.png",
+        "image_HapAssem_Tech_parents":"upload/_icon/HapAssem_Tech_parents.png"
+    },
+    "software":{
+        "table_software_file":"upload/_icon/software.xls"
+    }
+}
